@@ -15,7 +15,7 @@ st.title("Interact with Gapminder Data using SingleStore")
 
 # create connection config
 UserName='admin'
-Password='Montauban15'
+Password='ILoveSingleStore12'
 DatabaseName='gapminder'
 
 # Creating the database connection
