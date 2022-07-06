@@ -1,0 +1,11 @@
+name: dataviz
+channels:
+  - plotly
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab>=3.0.16
+  - plotly=5.1.0
+  - plotly-geo=1.0.0
+  - python>=3.9.6
+  - streamlit>=1
